@@ -1,0 +1,1 @@
+default[:wincleanmgr][:installed] = false
